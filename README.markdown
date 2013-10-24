@@ -11,3 +11,6 @@ __NOTE:__ This simple game has _no_ winning conditions! It only ends if you lose
 
 ##Credits
  Could not have been possible without [nholland94](https://github.com/nholland94) and his great math skills.
+
+##Screenshot
+![](http://i39.tinypic.com/8zmtmp.jpg)
