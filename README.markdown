@@ -1,5 +1,5 @@
 #Simple Asteroids
-Read about it [here](http://mcla21.tumblr.com/post/64939831705/w6d3-passing-on-the-know-how-for-crater-good).
+Done in JS and HTML5 Canvas
 ##Instructions
 __NOTE:__ This simple game has _no_ winning conditions! It only ends if you lose (get hit by an asteroid), or you close the page.
 
