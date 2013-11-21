@@ -1,5 +1,9 @@
 #Simple Asteroids
 Done in JS and HTML5 Canvas
+Click here to play: [http://mclaros.github.io/Simple-Asteroids/](http://mclaros.github.io/Simple-Asteroids/)
+
+(url is case sensitive)
+
 ##Instructions
 __NOTE:__ This simple game has _no_ winning conditions! It only ends if you lose (get hit by an asteroid), or you close the page.
 
